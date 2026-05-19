@@ -27,13 +27,33 @@ MIPS-Assembly-Lab-Project/
 ├── src/                 # MIPS Assembly source files
 ├── reports/             # Lab reports and documentation
 ├── presentations/       # Presentation slides
-├── screenshots/         # Output screenshots (in presenetation, report)
+├── screenshots/         # Output screenshots (optional)
 └── README.md
-- MIPS Assembly Language
-- MARS Simulator
-- QtSPIM
-- Computer Organization Concepts
+Features
+Assembly language programming
+Arithmetic and logical operations
+Loops and conditional branching
+Procedures and function calls
+Memory handling
+Input/Output operations
+Learning Objectives
 
----
+This project was created to understand:
 
-
+Low-level programming concepts
+CPU instruction execution
+Register manipulation
+Memory addressing
+Assembly language debugging
+How to Run
+Using MARS
+Open MARS Simulator
+Load .asm file
+Assemble the code
+Run the program
+Using QtSPIM
+Open QtSPIM
+Load assembly file
+Execute the program
+Author
+Areeba Shafqat
